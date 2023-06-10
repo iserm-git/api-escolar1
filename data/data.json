@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Alumno": 9
+  },
+  "models": {
+    "Alumno": {
+      "1": "{\"nomAlumno\":\"José Carlos\",\"edad\":19,\"idAlumno\":1}",
+      "2": "{\"nomAlumno\":\"Mayra\",\"edad\":15,\"idAlumno\":2}"
+    }
+  }
+}

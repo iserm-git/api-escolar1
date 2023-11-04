@@ -16,7 +16,7 @@ export class Alumno extends Entity {
   nomAlumno: string;
 
   @property({
-    type: 'number',
+    type: 'string',
     required: true,
   })
   edad: number;

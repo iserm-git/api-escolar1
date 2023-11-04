@@ -1,11 +1,13 @@
 {
   "ids": {
-    "Alumno": 9
+    "Alumno": 20
   },
   "models": {
     "Alumno": {
-      "1": "{\"nomAlumno\":\"José Carlos\",\"edad\":19,\"idAlumno\":1}",
-      "2": "{\"nomAlumno\":\"Mayra\",\"edad\":15,\"idAlumno\":2}"
+      "15": "{\"nomAlumno\":\"Sergio\",\"edad\":20,\"idAlumno\":15}",
+      "16": "{\"idAlumno\":16,\"nomAlumno\":\"Jose Carlos\",\"edad\":\"21\"}",
+      "17": "{\"nomAlumno\":\"Manuel\",\"edad\":\"22\",\"idAlumno\":17}",
+      "18": "{\"nomAlumno\":\"Israel\",\"edad\":\"18\",\"idAlumno\":18}"
     }
   }
 }

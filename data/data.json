@@ -1,13 +1,29 @@
 {
   "ids": {
-    "Alumno": 20
+    "Alumno": 21,
+    "Grupo": 8,
+    "AlumnoGrupo": 3
   },
   "models": {
     "Alumno": {
       "15": "{\"nomAlumno\":\"Sergio\",\"edad\":20,\"idAlumno\":15}",
       "16": "{\"idAlumno\":16,\"nomAlumno\":\"Jose Carlos\",\"edad\":\"21\"}",
       "17": "{\"nomAlumno\":\"Manuel\",\"edad\":\"22\",\"idAlumno\":17}",
-      "18": "{\"nomAlumno\":\"Israel\",\"edad\":\"18\",\"idAlumno\":18}"
+      "18": "{\"nomAlumno\":\"Israel\",\"edad\":\"18\",\"idAlumno\":18}",
+      "20": "{\"nomAlumno\":\"Juan Camaney\",\"edad\":\"50\",\"idAlumno\":20}"
+    },
+    "Grupo": {
+      "1": "{\"nomGrupo\":\"1A\",\"grado\":1,\"idGrupo\":1}",
+      "2": "{\"nomGrupo\":\"1B\",\"grado\":1,\"idGrupo\":2}",
+      "3": "{\"nomGrupo\":\"2A\",\"grado\":2,\"idGrupo\":3}",
+      "4": "{\"nomGrupo\":\"2B\",\"grado\":2,\"idGrupo\":4}",
+      "5": "{\"nomGrupo\":\"3A\",\"grado\":3,\"idGrupo\":5}",
+      "6": "{\"nomGrupo\":\"3B\",\"grado\":3,\"idGrupo\":6}",
+      "7": "{\"nomGrupo\":\"3B\",\"grado\":3,\"idGrupo\":7}"
+    },
+    "AlumnoGrupo": {
+      "1": "{\"idGrupo\":1,\"idAlumno\":16,\"idAlGpo\":1}",
+      "2": "{\"idGrupo\":21,\"idAlumno\":17,\"idAlGpo\":2}"
     }
   }
 }
